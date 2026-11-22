@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\pd781\\Envs\\py313-ml\\Scripts\\python.exe",
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Users\\pd781\\Envs\\py313-ml\\Scripts;${env:PATH}"
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
